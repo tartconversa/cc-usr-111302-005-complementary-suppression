@@ -1,0 +1,39 @@
+{
+  "published_prior": [
+    {
+      "key": "total",
+      "coefficients": [
+        1,
+        1
+      ],
+      "answer": 10
+    }
+  ],
+  "candidates": [
+    {
+      "key": "y",
+      "coefficients": [
+        0,
+        1
+      ],
+      "answer": 8,
+      "suppression_cost": 1
+    },
+    {
+      "key": "double-total",
+      "coefficients": [
+        2,
+        2
+      ],
+      "answer": 20,
+      "suppression_cost": 3
+    }
+  ],
+  "inconsistent_case": {
+    "coefficients": [
+      2,
+      -1
+    ],
+    "answer": 0
+  }
+}

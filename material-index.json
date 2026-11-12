@@ -1,0 +1,17 @@
+[
+  {
+    "path": "fixtures/cells.json",
+    "sha256": "4d96d9cb4b63236883ef844cb224a280cfd846d176b8eb7603a6df5192b25549",
+    "size_bytes": 282
+  },
+  {
+    "path": "fixtures/queries.json",
+    "sha256": "07d6013c229c7539b3cd930ba98dda9ad4d129afd35ada7f41e2321c3876e524",
+    "size_bytes": 529
+  },
+  {
+    "path": "fixtures/suppression.json",
+    "sha256": "afd20072ee5f967a72d7592b2a744e09a7976182260d324e8bca2bbede15c98b",
+    "size_bytes": 257
+  }
+]
