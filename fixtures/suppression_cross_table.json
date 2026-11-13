@@ -1,0 +1,12 @@
+{
+  "primary_protection": {
+    "x": {
+      "minimum_feasible_integer_values": 3,
+      "lower_distance": 1,
+      "upper_distance": 1
+    }
+  },
+  "search_node_budget": 10000,
+  "support_check": "actual_integer_values",
+  "adversary_extra_releases": []
+}

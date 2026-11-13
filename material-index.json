@@ -13,5 +13,15 @@
     "path": "fixtures/suppression.json",
     "sha256": "afd20072ee5f967a72d7592b2a744e09a7976182260d324e8bca2bbede15c98b",
     "size_bytes": 257
+  },
+  {
+    "path": "fixtures/queries_neighbor_table.json",
+    "sha256": "64b00ac2a491aecc64c722b6dc8bc58b4ed7a8d77b10033561510eb372d3e706",
+    "size_bytes": 215
+  },
+  {
+    "path": "fixtures/suppression_cross_table.json",
+    "sha256": "afd20072ee5f967a72d7592b2a744e09a7976182260d324e8bca2bbede15c98b",
+    "size_bytes": 257
   }
 ]

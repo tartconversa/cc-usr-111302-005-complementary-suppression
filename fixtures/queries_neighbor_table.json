@@ -1,0 +1,14 @@
+{
+  "table": "neighboring-region-release",
+  "published_prior": [
+    {
+      "key": "difference-x-minus-y",
+      "coefficients": [
+        1,
+        -1
+      ],
+      "answer": -6
+    }
+  ],
+  "candidates": []
+}
